@@ -1,0 +1,35 @@
+#TODO:
+1. In this app, I want to create a wallet like groww or
+kotak neo trading app.
+
+I want to add functionality that user will add their bank account from which they can transfer funds in the wallet using razorPay and then they can bet or trade their funds from wallet balance in the predictions.They can add or withdraw funds/balance from wallet to their account.
+
+I want to use supabase to store their transaction history and and their account details and more.
+
+#TODO-HOME PAGE:
+ I have to add functionality to update balance in ui
+ add balance page, withdraw balance page, transaction page, more page,(in the more page I have to add portfolio, leaderboard)
+
+in transaction separate page
+
+trending event page
+
+# TODO-MARKET PAGE:
+category separation
+
+event page -> graph, participant, trade book/order book, and about the event { activity, comments, in the about Traderd, volume, started at , ending at, overview, rules , info about this event}
+
+onclick yes bidding for yes, onclick no bidding for no,
+
+quick info lead to about of the event
+
+# TODO PREDICTION PAGE:
+predictions lead to the activity page
+
+# TODO MORE PAGE: **Done**
+profile page ,
+resources -> coming soon,
+LeaderBoard -> coming Soon,
+about -> a summary of app
+
+supabase database password: 'bibek@20245'
